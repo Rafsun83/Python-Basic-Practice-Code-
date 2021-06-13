@@ -1,0 +1,1 @@
+print("Rafsun jani \t Rafsun jani")

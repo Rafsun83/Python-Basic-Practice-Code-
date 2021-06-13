@@ -1,0 +1,7 @@
+numb = list(range(10))
+print(numb)
+print(numb[2])
+numb = list(range(5,20))
+print(numb)
+numb = list(range(5,20,2))
+print(numb)
